@@ -1,0 +1,330 @@
+/* ==========================================================================
+   HTML5 Boilerplate styles - h5bp.com (generated via initializr.com)
+   ========================================================================== */
+
+html,
+button,
+input,
+select,
+textarea {
+    color: #222;
+}
+
+body {
+    font-size: 1em;
+}
+
+::-moz-selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+::selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+img {
+    vertical-align: middle;
+}
+
+fieldset {
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+textarea {
+    resize: vertical;
+}
+
+.chromeframe {
+    margin: 0.2em 0;
+    background: #ccc;
+    color: #000;
+    padding: 0.2em 0;
+}
+
+
+/* ==========================================================================
+   Font-face tags
+   ========================================================================== */
+
+@font-face {
+    font-family: 'UniversLTStd-Cn';
+    src: url('../fonts/universltstd-cn-webfont.eot');
+    src: url('../fonts/universltstd-cn-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/universltstd-cn-webfont.woff') format('woff'),
+         url('../fonts/universltstd-cn-webfont.ttf') format('truetype'),
+         url('../fonts/universltstd-cn-webfont.svg#UniversLTStd-Cn') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'UniversLTStd-CnObl';
+    src: url('../fonts/universltstd-cnobl-webfont.eot');
+    src: url('../fonts/universltstd-cnobl-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/universltstd-cnobl-webfont.woff') format('woff'),
+         url('../fonts/universltstd-cnobl-webfont.ttf') format('truetype'),
+         url('../fonts/universltstd-cnobl-webfont.svg#UniversLTStd-CnObl') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'UniversLTStd-LightCn';
+    src: url('../fonts/universltstd-lightcn-webfont.eot');
+    src: url('../fonts/universltstd-lightcn-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/universltstd-lightcn-webfont.woff') format('woff'),
+         url('../fonts/universltstd-lightcn-webfont.ttf') format('truetype'),
+         url('../fonts/universltstd-lightcn-webfont.svg#UniversLTStd-LightCn') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'UniversLTStd-LightCnObl';
+    src: url('../fonts/universltstd-lightcnobl-webfont.eot');
+    src: url('../fonts/universltstd-lightcnobl-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/universltstd-lightcnobl-webfont.woff') format('woff'),
+         url('../fonts/universltstd-lightcnobl-webfont.ttf') format('truetype'),
+         url('../fonts/universltstd-lightcnobl-webfont.svg#UniversLTStd-LightCnObl') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'UniversLTStd-BoldCn';
+    src: url('../fonts/universltstd-boldcn-webfont.eot');
+    src: url('../fonts/universltstd-boldcn-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/universltstd-boldcn-webfont.woff') format('woff'),
+         url('../fonts/universltstd-boldcn-webfont.ttf') format('truetype'),
+         url('../fonts/universltstd-boldcn-webfont.svg#UniversLTStd-BoldCn') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'UniversLTStd-BoldCnObl';
+    src: url('../fonts/universltstd-boldcnobl-webfont.eot');
+    src: url('../fonts/universltstd-boldcnobl-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/universltstd-boldcnobl-webfont.woff') format('woff'),
+         url('../fonts/universltstd-boldcnobl-webfont.ttf') format('truetype'),
+         url('../fonts/universltstd-boldcnobl-webfont.svg#UniversLTStd-BoldCnObl') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+header nav ul li {text-indent: -9999px; float: left;}
+
+#cadastro form label {width: 82px; height: 28px; display: inline-block; font-family: Arial; font-size: 16px; color: #414141;}
+#cadastro form input {border: none; border: #c3c2b6 solid 1px; height: 28px; outline: none;}
+
+article section form label {width: 82px; height: 28px; display: inline-block; font-family: Arial; font-size: 16px; color: #414141;}
+article section form input {border: none; border: #c3c2b6 solid 1px; height: 28px; outline: none;}
+article section form textarea {border: none; border: #c3c2b6 solid 1px; resize: vertical; outline: none;}
+
+footer nav ul li {float: left; margin-left: 21px;}
+footer nav ul li a {font-size: 15px; font-family: 'UniversLTStd-BoldCn', Arial; color: #f4f0e7; text-transform: uppercase; text-decoration: none;}
+footer nav ul li a:hover {text-decoration: underline;}
+
+#pagina-saiba-mais hr {width: 890px; border: none; border-top: #bcb8ae solid 1px; border-bottom: #ffffff solid 1px; margin: 22px 0;}
+
+#pagina-saiba-mais-principios p {font-family: Arial; font-size: 15px; color: #464646; line-height: 20px;}
+#pagina-saiba-mais-principios p a {font-family: Arial; font-size: 18px; color: #116d74; line-height: 20px; font-weight: bold;}
+
+#pagina-saiba-mais-estatuto ul {font-family: Arial; font-size: 15px; color: #464646; line-height: 20px; list-style: disc;}
+#pagina-saiba-mais-estatuto ul li {margin-bottom: 18px; margin-left: 18px;}
+#pagina-saiba-mais-estatuto p {font-family: Arial; font-size: 15px; color: #464646; line-height: 20px;}
+#pagina-saiba-mais-estatuto p a {font-family: Arial; font-size: 18px; color: #116d74; line-height: 20px; font-weight: bold;}
+#pagina-saiba-mais-estatuto h3 {font-family: Arial; font-size: 18px; color: #f58426; line-height: 20px; font-weight: bold; margin-bottom: 22px;}
+
+#pagina-saiba-mais-programa p {font-family: Arial; font-size: 15px; color: #464646; line-height: 20px;}
+#pagina-saiba-mais-programa p a {font-family: Arial; font-size: 18px; color: #116d74; line-height: 20px; font-weight: bold;}
+#pagina-saiba-mais-programa ul {font-family: Arial; font-size: 15px; color: #464646; line-height: 20px; list-style: disc;}
+#pagina-saiba-mais-programa ul li {margin-left: 58px;}
+
+#pagina-saiba-mais-namidia p strong {font-size: 18px; color: #f68428;}
+#pagina-saiba-mais-namidia p {font-family: Arial; font-size: 15px; color: #464646; line-height: 20px;}
+#pagina-saiba-mais-namidia p a {font-family: Arial; font-size: 15px; color: #116d74; line-height: 20px; font-weight: bold;}
+
+#lista-perguntas-frequentes li {list-style: none; width: 849px; height: 28px; line-height: 28px; font-weight: bold; font-family: Arial; font-size: 15px; padding-left: 41px;}
+#lista-perguntas-frequentes li a {color: #464646; text-decoration: none;}
+#lista-perguntas-frequentes li a:hover {text-decoration: underline;}
+#lista-perguntas-frequentes li.cinza {background-color: #e4e1d8;}
+
+#perguntas-frequentes h3 {font-family: Arial; font-size: 15px; color: #464646; line-height: 20px; margin-bottom: 15px; font-weight: bold;}
+#perguntas-frequentes p {font-family: Arial; font-size: 15px; color: #464646; line-height: 20px;}
+#perguntas-frequentes a {font-family: Arial; font-size: 15px; color: #17a0aa; line-height: 20px;}
+#perguntas-frequentes a.voltar {text-transform: uppercase; margin-top: 7px; float: right; text-decoration: none;}
+
+/* ==========================================================================
+   Media Queries
+   ========================================================================== */
+
+@media only screen and (min-width: 35em) {
+
+}
+
+@media print,
+       (-o-min-device-pixel-ratio: 5/4),
+       (-webkit-min-device-pixel-ratio: 1.25),
+       (min-resolution: 120dpi) {
+
+}
+
+/* ==========================================================================
+   Helper classes
+   ========================================================================== */
+
+.ir {
+    background-color: transparent;
+    border: 0;
+    overflow: hidden;
+    *text-indent: -9999px;
+}
+
+.ir:before {
+    content: "";
+    display: block;
+    width: 0;
+    height: 150%;
+}
+
+.hidden {
+    display: none !important;
+    visibility: hidden;
+}
+
+.visuallyhidden {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
+
+.visuallyhidden.focusable:active,
+.visuallyhidden.focusable:focus {
+    clip: auto;
+    height: auto;
+    margin: 0;
+    overflow: visible;
+    position: static;
+    width: auto;
+}
+
+.invisible {
+    visibility: hidden;
+}
+
+.clearfix:before,
+.clearfix:after {
+    content: " ";
+    display: table;
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+.clearfix {
+    *zoom: 1;
+}
+
+/* ==========================================================================
+   Print styles
+   ========================================================================== */
+
+@media print {
+    * {
+        background: transparent !important;
+        color: #000 !important; /* Black prints faster: h5bp.com/s */
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+    a,
+    a:visited {
+        text-decoration: underline;
+    }
+
+    a[href]:after {
+        content: " (" attr(href) ")";
+    }
+
+    abbr[title]:after {
+        content: " (" attr(title) ")";
+    }
+
+    /*
+     * Don't show links for images, or javascript/internal links
+     */
+
+    .ir a:after,
+    a[href^="javascript:"]:after,
+    a[href^="#"]:after {
+        content: "";
+    }
+
+    pre,
+    blockquote {
+        border: 1px solid #999;
+        page-break-inside: avoid;
+    }
+
+    thead {
+        display: table-header-group; /* h5bp.com/t */
+    }
+
+    tr,
+    img {
+        page-break-inside: avoid;
+    }
+
+    img {
+        max-width: 100% !important;
+    }
+
+    @page {
+        margin: 0.5cm;
+    }
+
+    p,
+    h2,
+    h3 {
+        orphans: 3;
+        widows: 3;
+    }
+
+    h2,
+    h3 {
+        page-break-after: avoid;
+    }
+}.admin {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #030;
+}

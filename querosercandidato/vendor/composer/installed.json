@@ -1,0 +1,52 @@
+[
+    {
+        "name": "iugu/iugu",
+        "version": "1.0.6",
+        "version_normalized": "1.0.6.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/iugu/iugu-php.git",
+            "reference": "e22635ca112d2a5b003372d966261314135257ed"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/iugu/iugu-php/zipball/e22635ca112d2a5b003372d966261314135257ed",
+            "reference": "e22635ca112d2a5b003372d966261314135257ed",
+            "shasum": ""
+        },
+        "require": {
+            "ext-curl": "*",
+            "ext-json": "*",
+            "ext-mbstring": "*",
+            "php": ">=5.2"
+        },
+        "require-dev": {
+            "simpletest/simpletest": "1.1.5"
+        },
+        "time": "2015-11-25 10:36:10",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "classmap": [
+                "lib/Iugu/"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Iugu team and contributors",
+                "homepage": "https://github.com/iugu/iugu-php/contributors"
+            }
+        ],
+        "description": "iugu PHP Library",
+        "homepage": "https://iugu.com",
+        "keywords": [
+            "api",
+            "iugu",
+            "pagamentos"
+        ]
+    }
+]

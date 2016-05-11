@@ -1,0 +1,19 @@
+input.input-error {
+	border-color: #b94a48;
+	color: #b94a48;
+	border-style: solid;
+}
+
+input.input-success {
+	border-color: #468847;
+	color: #468847;
+	border-style: solid;
+}
+
+.form-field {
+	display: inline-block;
+	text-align: left;
+}
+#cartao label {
+	font-size: 0.8em;
+}

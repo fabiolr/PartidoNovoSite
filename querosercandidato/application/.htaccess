@@ -1,0 +1,16 @@
+AddType video/ogg .ogm 
+AddType video/ogg .ogv 
+AddType video/ogg .ogg 
+AddType video/webm .webm 
+AddType audio/webm .weba
+AddType video/mp4 .mp4 
+AddType video/x-m4v .m4v
+
+
+<IfModule mod_rewrite.c>
+	RewriteEngine on
+	RewriteCond $1 !^(index\.php|resources|robots\.txt\.css\.js\.swf\.jpg\.gif\.png\.xml\.js)
+	RewriteCond %{REQUEST_FILENAME} !-f
+	RewriteCond %{REQUEST_FILENAME} !-d
+	RewriteRule ^(.*)$ index.php/$1 [L,QSA]
+</IfModule>
