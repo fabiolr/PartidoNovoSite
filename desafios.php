@@ -52,7 +52,7 @@
                     <div class="cada laranja last">
                         <div class="img"><img src="images/desafios-icone-6-preto.png" alt="icone Liberdade"></div>
                         <h2 class="tit b-23">REDUZIR</h2>
-                        <p class="b-16"> Rever o papel do estado,<br> reduzindo o escopo da sua<br> atuação e a carga tributária.</p>
+                        <p class="b-16"> Rever o papel do Estado,<br> reduzindo o escopo da sua<br> atuação e a carga tributária.</p>
                     </div>
 
                      <div class="cada laranja first">
