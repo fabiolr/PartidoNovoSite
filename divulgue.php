@@ -36,7 +36,7 @@
                         <span class="img"><img src="images/filiese-manual.png" alt="Manual do Novo"></span>
                         <h2>Manual <br>do Novo</h2>
                     </a>
-                    <a href="https://www.dropbox.com/s/ubx1wtbe19ak1zg/PPTDivulgação.ppt?dl=0&force_no_progressive=1" class="cada" target="_blank">
+                    <a href="https://onedrive.live.com/embed?cid=7C32779422B369A2&resid=7C32779422B369A2%2148423&authkey=ANreVGPeyR14_0o&em=2&wdAr=1.3333333333333333&wdEaa=1" class="cada" target="_blank">
                         <span class="img"><img src="images/filiese-apresentacoes.png" alt="Apresentações em powerpoint"></span>
                         <h2>apresentações<br> em power point</h2>
                     </a>
