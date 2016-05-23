@@ -10,6 +10,7 @@
                                 <li><a href="partido.php">Quem somos</a></li>
                                 <li><a href="estatuto.php">Estatuto</a></li>
                                 <li><a href="diretorios.php">Diretórios</a></li>
+								<li><a href="prestacao-de-contas.php">Prestação de Contas</a></li>
                             </ul>
                         </li>
                         <li>
@@ -26,22 +27,24 @@
                                 <li><a href="cadastro.php">Cadastro</a></li>
                                 <li><a href="sobre-doacao.php">Doação</a></li>
                                 <li><a href="divulgue.php">Divulgação</a></li>
-                                <li><a href="agenda.php">Agenda de Eventos</a></li>
+								<li><a href="filie-se.php">Filie-se</a></li>                                 
                             </ul>
                         </li>
                         <li>
                             <a href="divulgue.php">Filiados</a>
                                 <ul class="sub-item">
-                                    <li><a href="filie-se.php">Filie-se</a></li> 
                                     <li><a href="acesso-restrito.php">Área do Filiado</a></li>
+									<li><a href="filie-se.php">Filie-se</a></li>  
                                 </ul>
                         </li>
                         <li>
                             <a href="midias-sociais.php">Acompanhe</a>
                              <ul class="sub-item">
                                 <li><a href="midias-sociais.php">Mídias sociais</a></li>
+								<li><a href="novonoface.php">NOVO No Face</a></li>
                                 <li><a href="novo-na-midia.php">Novo na mídia</a></li>
-								<li><a href="prestacao-de-contas.php">Prestação de Contas</a></li>
+								<li><a href="agenda.php">Agenda de Eventos</a></li>
+								
                             </ul>
                         </li>
                         <li>

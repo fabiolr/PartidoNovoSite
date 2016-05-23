@@ -79,7 +79,7 @@
 
                             <div class="clear"></div>
 
-                            <input type="submit" name="submit" value="Enviar" id="btnenviar" class="bt-laranja">
+                            <input type="submit" name="btnSubmit" value="Enviar" id="btnenviar" class="bt-laranja">
 
                             <input type="hidden" id="action" name="action" value="submitform" />
                             <input type="hidden" name="charset_check" value="ä™®">
@@ -89,7 +89,9 @@
                         </div><!-- form -->
                         
                     </form>
-                </div>
+
+
+				</div>
                 <div class="seta"></div>
             </div>
         </section>
@@ -142,6 +144,11 @@
 
 <?php include("_footer.inc.php") ?>
 
+
+<script type="text/javascript" src="https://d335luupugsy2.cloudfront.net/js/integration/stable/rd-js-integration.min.js"></script> 
+<script type="text/javascript">
+	RdIntegration.integrate('2ae428e7a41c7fb2611e729c5055990f', 'novo.org.br/cadastro'); 
+</script>
 
 </body>
 </html>

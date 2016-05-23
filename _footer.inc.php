@@ -2,7 +2,6 @@
             <div class="fix">
                 <a href="index.php" class="logo"><img src="images/footer-logo.png" alt="logo Partido novo" ></a>
                 <div class="bt-voltar-topo b-18-helvetica">de volta ao topo</div>
-                <a href="http://zaw.com.br" target="_blank" class="assinatura"><img src="images/footer-logo-zaw.gif" alt="Zaw Comunicação "></a>
             </div>
         </footer>
 

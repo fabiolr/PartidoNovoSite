@@ -32,12 +32,12 @@
 
                 </div>
                 <div class="icones">
-                    <a href="http://bit.ly/1l1xED3" class="cada" target="_blank">
+					<a href="downloads/ManualdoNOVO.pdf" class="cada" target="_blank">
                         <span class="img"><img src="images/filiese-manual.png" alt="Manual do Novo"></span>
                         <h2>Manual <br>do Novo</h2>
                     </a>
-                    <a href="https://onedrive.live.com/embed?cid=7C32779422B369A2&resid=7C32779422B369A2%2148423&authkey=ANreVGPeyR14_0o&em=2&wdAr=1.3333333333333333&wdEaa=1" class="cada" target="_blank">
-                        <span class="img"><img src="images/filiese-apresentacoes.png" alt="Apresentações em powerpoint"></span>
+						<a href="https://onedrive.live.com/embed?cid=7C32779422B369A2&resid=7C32779422B369A2%2148423&authkey=ANreVGPeyR14_0o&em=2&wdAr=1.3333333333333333&wdEaa=1" class="cada" target="_blank">
+ 						<span class="img"><img src="images/filiese-apresentacoes.png" alt="Apresentações em powerpoint"></span>
                         <h2>apresentações<br> em power point</h2>
                     </a>
                     <a href="videos.php" class="cada">
@@ -60,86 +60,14 @@
                     </div>
                     <div class="cada simbolo">
                         <h2> BAIXE AQUI <br>O LOGO DO NOVO</h2>
-                        <a href="http://novo.org.br/downloads/logo.zip" class="img"><img src="images/divulgue-simbolo.png" alt="Simbolo do NOVO"></a>
-                        <a href="http://novo.org.br/downloads/logo.zip" class="bt-preto">Download</a>
+                        <a href="http://relacionamento.novo.org.br/logo" target="_blank" class="img"><img src="images/divulgue-simbolo.png" alt="Simbolo do NOVO"></a>
+                        <a href="http://relacionamento.novo.org.br/logo" target="_blank" class="bt-preto">Download</a>
                     </div>
-                   <!--  <div class="cada camiseta">
-                        <a href="#" class="img"><img src="images/divulgue-camiseta.png" alt="camiseta do NOVO"></a>
-                        <div class="col-b">
-                            <h2>FAÇA SUA<br> PRÓPRIA CAMISETA</h2>
-                            <a href="#" class="bt-preto">Download</a>
-                        </div>
-                    </div> -->
                 </div>
-
-                <!-- <div class="seta"></div> -->
             </div>
         </section>
 
-         <!--section class="sec-a livros">
-            <div class="fix">
-                <h1 class="titulo l-40-helvetica-b-cn">LIVROS RECOMENDADOS</h1>
-                <ul class="lista">
-                    <li class="cada">
-                        <h2>A Lei- Frederic Bastiat - Instituto Mises Brasil</h2>
-                        <a href="http://www.mises.org.br/Ebook.aspx?id=17" target="_blank">http://www.mises.org.br/Ebook.aspx?id=17</a>
-                    </li>
-
-                    <li class="cada">
-                        <h2>As seis lições, Ludwig von Mises - Instituto Mises Brasil</h2>
-                        <a href="http://www.mises.org.br/Ebook.aspx?id=16." target="_blank">http://www.mises.org.br/Ebook.aspx?id=16.</a>
-                    </li>
-
-                    <li class="cada">
-                        <h2>O Caminho da Servidão, F.A. Hayek - Instituto Liberal</h2>
-                        <a href="http://www.institutoliberal.org.br/biblioteca/classicos/o-caminho-da-servidao-f-hayek/" target="_blank">http://www.institutoliberal.org.br/biblioteca/classicos/o-caminho-da-servidao-f-hayek/</a>
-                    </li>
-
-                    <li class="cada">
-                        <h2>Economia Numa única Lição, Henry Hazlitt - Instituto Mises Brasil</h2>
-                        <a href="http://www.mises.org.br/Ebook.aspx?id=25" target="_blank">http://www.mises.org.br/Ebook.aspx?id=25</a>
-                    </li>
-
-                    <li class="cada">
-                        <h2>Investigação sobre o Entendimento Humano- David Hume</h2>
-                        <a href="http://www.institutoliberal.org.br/biblioteca/classicos/investigacao-sobre-o-entendimento-humano-david-hume/" target="_blank">http://www.institutoliberal.org.br/biblioteca/classicos/investigacao-sobre-o-entendimento-humano-david-hume/</a>
-                    </li>
-
-                    <li class="cada">
-                        <h2>A Sociedade Pós-Capitalista, Peter Drucker - Actual Editora</h2>
-                    </li>
-
-                    <li class="cada">
-                        <h2>Guia Politicamente Incorreto da America Latina, Leandro Marloch e Duda Teixeira, Ed Leya Brasil</h2>
-                    </li>
-
-                    <li class="cada">
-                        <h2>O Capitalismo e Liberdade, Milton Friedman, editora LTC</h2>
-                    </li>
-                    <li class="cada">
-                        <h2>A Revolta do Atlas- Ayn Rand, Ed Arqueiro- RJ</h2>
-                    </li>
-
-                    <li class="cada">
-                        <h2>Niall Ferguson - A Grande Degeneração, a Decadência do Mundo Ocidental, Ed Planeta</h2>
-                    </li>
-
-                    <li class="cada">
-                        <h2>A lanterna na popa - Roberto Campos memórias, 2 volumes, 4º edição, Editora Topbooks, Rio de Janeiro, 2001.</h2>
-                    </li>
-
-                    <li class="cada">
-                        <h2>Antologia do bom senso- Roberto Campos, Ed Topbooks</h2>
-                    </li>
-
-                    <li class="cada">
-                        <h2>Manual do Perfeito Idiota Latino-Americano-Carlos Alberto Montaner e Alberto Vargas Llosa , Ed. Bertrand Brasil</h2>
-                    </li>
-                    
-                </ul>
-            </div>
-        </section-->
-
+ 
 <?php include("_footer.inc.php") ?>
 
 
