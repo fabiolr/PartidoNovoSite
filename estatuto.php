@@ -22,6 +22,7 @@
         <section class="sec-a estatuto">
             <div class="fix">
                 <h1 class="titulo l-40-helvetica-b-cn">Estatuto</h1>
+		
                 <div class="lista">
                     <h2>Veja os diferenciais do nosso estatuto</h2>
                     <h3>Limitação ao “carreirismo político”:</h3>
@@ -42,15 +43,15 @@
                     <h3>Suporte ao candidato:</h3>
                     <p>Criação de um orgão de apoio e controle, que desenvolverá técnicas, métodos e padrões de atuação que resultem na maior eficiência das atividades do candidato.</p>
                 </div>
-
-                <a href="downloads/Estatuto.pdf" class="bt-laranja b-15-helvetica-b">Estatuto</a>
-                <a href="downloads/Diferenciais_Estatuto.pdf" class="bt-laranja b-15-helvetica-b">Diferenciais do Estatuto</a>
-				<a href="downloads/Codigo_Conduta_Partido_NOVO.pdf" class="bt-laranja b-15-helvetica-b">Código de Conduta</a>
-				<br><br>
-				<a href="downloads/Compromisso_de_Gestao_Partido_NOVO.pdf" class="bt-laranja b-15-helvetica-b">Compromisso de Gestão</a>
-				<a href="downloads/Compromisso_partidario_Partido_NOVO.pdf" class="bt-laranja b-15-helvetica-b">Compromisso Partidário</a>
-				<a href="downloads/Termo_de_Atuacao_Legislativa_Partido_NOVO.pdf" class="bt-laranja b-15-helvetica-b">Termo de Atuação Legislativa</a>
-				
+		<div align="center">
+                	<a href="http://relacionamento.novo.org.br/estatuto" target="_blank" class="bt-laranja b-15-helvetica-b">Estatuto</a>
+                	<a href="downloads/Diferenciais_Estatuto.pdf" class="bt-laranja b-15-helvetica-b">Diferenciais do Estatuto</a>
+			<a href="downloads/Codigo_Conduta_Partido_NOVO.pdf" class="bt-laranja b-15-helvetica-b">Código de Conduta</a>
+			<br><br>
+			<a href="downloads/Compromisso_de_Gestao_Partido_NOVO.pdf" class="bt-laranja b-15-helvetica-b">Compromisso de Gestão</a>
+			<a href="downloads/Compromisso_partidario_Partido_NOVO.pdf" class="bt-laranja b-15-helvetica-b">Compromisso Partidário</a>
+			<a href="downloads/Termo_de_Atuacao_Legislativa_Partido_NOVO.pdf" class="bt-laranja b-15-helvetica-b">Termo de Atuação Legislativa</a>
+		</div>		
                 <div class="clear"></div>
 
                 <div class="seta"></div>

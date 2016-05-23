@@ -32,12 +32,19 @@
 
                 </div>
                 <div class="icones">
-                    <a href="http://bit.ly/1l1xED3" class="cada" target="_blank">
+                    <a href="http://pages.rdstation.com.br/manual-do-novo" class="cada" target="_blank">
                         <span class="img"><img src="images/filiese-manual.png" alt="Manual do Novo"></span>
                         <h2>Manual <br>do Novo</h2>
                     </a>
-                    <a href="https://onedrive.live.com/embed?cid=7C32779422B369A2&resid=7C32779422B369A2%2148423&authkey=ANreVGPeyR14_0o&em=2&wdAr=1.3333333333333333&wdEaa=1" class="cada" target="_blank">
-                        <span class="img"><img src="images/filiese-apresentacoes.png" alt="Apresentações em powerpoint"></span>
+ <!--                   <a href="https://www.dropbox.com/s/ubx1wtbe19ak1zg/PPTDivulgação.ppt?dl=0&force_no_progressive=1" class="cada" target="_blank">
+ 
+ 						<iframe src='https://onedrive.live.com/embed?cid=7C32779422B369A2&resid=7C32779422B369A2%2148423&authkey=ANreVGPeyR14_0o&em=2&wdAr=1.3333333333333333&wdEaa=1' width='722px' height='565px' frameborder='0'>This is an embedded <a target='_blank' href='https://office.com'>Microsoft Office</a> presentation, powered by <a target='_blank' href='https://office.com/webapps'>Office Online</a>.</iframe>
+-->
+						<a href="https://onedrive.live.com/embed?cid=7C32779422B369A2&resid=7C32779422B369A2%2148423&authkey=ANreVGPeyR14_0o&em=2&wdAr=1.3333333333333333&wdEaa=1" class="cada" target="_blank">
+ 
+ <!--						<a href="downloads/PPTDivulgacao.ppsx" class="cada" target="_blank">
+  -->
+						<span class="img"><img src="images/filiese-apresentacoes.png" alt="Apresentações em powerpoint"></span>
                         <h2>apresentações<br> em power point</h2>
                     </a>
                     <a href="videos.php" class="cada">
@@ -60,8 +67,8 @@
                     </div>
                     <div class="cada simbolo">
                         <h2> BAIXE AQUI <br>O LOGO DO NOVO</h2>
-                        <a href="http://novo.org.br/downloads/logo.zip" class="img"><img src="images/divulgue-simbolo.png" alt="Simbolo do NOVO"></a>
-                        <a href="http://novo.org.br/downloads/logo.zip" class="bt-preto">Download</a>
+                        <a href="http://relacionamento.novo.org.br/logo" target="_blank" class="img"><img src="images/divulgue-simbolo.png" alt="Simbolo do NOVO"></a>
+                        <a href="http://relacionamento.novo.org.br/logo" target="_blank" class="bt-preto">Download</a>
                     </div>
                    <!--  <div class="cada camiseta">
                         <a href="#" class="img"><img src="images/divulgue-camiseta.png" alt="camiseta do NOVO"></a>
