@@ -27,10 +27,10 @@
                     <br><br>
                 </div>
 
-                <a href="downloads/Balanco_Partido_NOVO_2015.pdf" class="bt-laranja b-15-helvetica-b">Balanço 2015</a>
-                <a href="downloads/DRE_Partido_NOVO_2015.pdf" class="bt-laranja b-15-helvetica-b">Demonstração de Resultados 2015</a>
+                <a href="http://relacionamento.novo.org.br/prestacao-de-contas-balanco2015" class="bt-laranja b-15-helvetica-b">Balanço 2015</a>
+                <a href="http://relacionamento.novo.org.br/prestacao-de-contas-dre2015" class="bt-laranja b-15-helvetica-b">Demonstração de Resultados 2015</a>
 				<br><br>
-                <a href="downloads/Demonstracao_Fundo_Partidario_Partido_NOVO_2015.pdf" class="bt-laranja b-15-helvetica-b">Demonstração do Fundo Partidário 2015</a>
+                <a href="http://relacionamento.novo.org.br/prestacao-de-contas-drefp2015" class="bt-laranja b-15-helvetica-b">Demonstração do Fundo Partidário 2015</a>
 
                 <div class="clear"></div>
 

@@ -202,7 +202,7 @@
 
                             <div class="clear"></div>
 
-                            <input type="submit" name="submit" value="Enviar" id="btnenviar" class="bt-laranja">
+                            <input type="submit" name="btnsubmit" value="Enviar" id="btnenviar" class="bt-laranja">
 
 
                             <div class="clear"></div>
@@ -221,6 +221,11 @@
     $('.lista .cada .col-2 .tit').on('click',function(){
         $(this).next().fadeToggle()
     })
+</script>
+
+<script type="text/javascript" src="https://d335luupugsy2.cloudfront.net/js/integration/stable/rd-js-integration.min.js"></script> 
+<script type="text/javascript">
+   RdIntegration.integrate('2ae428e7a41c7fb2611e729c5055990f', 'novo.org.br/fale-com-gente'); 
 </script>
 
 </body>
