@@ -47,6 +47,10 @@
                     <h4>Secretário Nacional Administrativo</h4>
                     <p>52 anos, Contador pela Faculdade de Administração e Ciências Contábeis Luzwell. Trabalhou no Banco Nacional S/A, Unibanco S/A, Finaustria. Empresário no setor contábil.</p>
                     <br><br>
+                    <h3 class="l-18">Danilo Amaral</h3>
+                    <h4> </h4>
+                    <p>44 anos, advogado de formação, advogou na área de M&A até 2006. Foi gestor de empresas em "turnaround" desde então e, a partir de 2.010, é fundador e gestor de um fundo de investimentos de venture capital e private equity com atuação no Brasil e América do Sul.</p>
+                    <br><br>
 
                     <h2 class="verde-25">Diretórios Estaduais</h2>
                     <br>
